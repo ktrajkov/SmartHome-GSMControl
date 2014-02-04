@@ -9,7 +9,7 @@
 #define NumberSensor 4
 #define NumberCheckSensor 4
 #define IncorrectMeasure 999
-#define MaxTempAlert 61
+#define MaxTempAlert 31
 #define MaxTempThermostat 31
 
 #pragma region EEPROM Addr
